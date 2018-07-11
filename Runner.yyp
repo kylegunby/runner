@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "405a81f6-a1d7-41ce-a129-45f7b8b0529d",
+            "Value": {
+                "id": "6419676c-8149-4f34-b044-45bd257afa97",
+                "resourcePath": "objects\\o_solid\\o_solid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4bf27aac-1822-439a-b569-f304ace2579f",
             "Value": {
                 "id": "ce616891-0232-4ef2-ba8e-46aa4700c521",
@@ -100,6 +108,14 @@
                 "id": "711b4878-71e1-43dd-8bf9-d1818acab76f",
                 "resourcePath": "sprites\\s_player_climb\\s_player_climb.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "61ef2e4c-8eb1-4c34-bfe6-029fa9ccaa40",
+            "Value": {
+                "id": "e7bec412-8e7d-4782-94bc-1e8583ed89e1",
+                "resourcePath": "tilesets\\t_ground\\t_ground.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "8b3a6510-d5b1-47c7-a4ab-c8d1578d75bf",
+            "Value": {
+                "id": "0878b5d7-036e-46a5-9ce3-dcb3842006f1",
+                "resourcePath": "views\\8b3a6510-d5b1-47c7-a4ab-c8d1578d75bf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9293c5d0-6253-465b-a2f9-010b95db4d0b",
             "Value": {
                 "id": "c4436b98-8d29-4bfc-8e9f-7557e01bb02b",
@@ -223,6 +247,14 @@
             }
         },
         {
+            "Key": "a31085fd-38a8-42bd-ad37-204557c93ec1",
+            "Value": {
+                "id": "c525d27d-44db-4552-8070-3fea57d123fe",
+                "resourcePath": "views\\a31085fd-38a8-42bd-ad37-204557c93ec1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "33bca639-a978-4d88-ace1-9ce352925042",
@@ -244,6 +276,22 @@
                 "id": "59419acd-1926-4ded-b31e-746349e8769d",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "df42df0c-15bf-409b-8edb-eef40c69a9fe",
+            "Value": {
+                "id": "882b5db2-ee19-42d4-a244-e81737de9237",
+                "resourcePath": "objects\\o_player\\o_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e167eddd-81f3-42b4-bfc6-602cb89d0902",
+            "Value": {
+                "id": "2c5e3cc4-373a-4563-b4ae-11051a1c2c73",
+                "resourcePath": "sprites\\s_ground_tiles\\s_ground_tiles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
