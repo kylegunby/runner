@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "252bc8df-db68-45c2-bcbd-6b77d1154e5a",
+            "Value": {
+                "id": "5c029622-179d-4b9a-96a9-5eb5ef3b694f",
+                "resourcePath": "sprites\\s_grass14x1\\s_grass14x1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "25988f06-e1f8-4295-b6c4-d9630f4ecc3e",
             "Value": {
                 "id": "1b6332af-19f8-4e49-a7db-f207969850cc",
@@ -439,6 +447,22 @@
             }
         },
         {
+            "Key": "cce64819-b50b-4a81-8a84-d2a2f3a57083",
+            "Value": {
+                "id": "6e96dff3-a1d0-45b7-8e4e-7e938b3a1c48",
+                "resourcePath": "views\\cce64819-b50b-4a81-8a84-d2a2f3a57083.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d187aabd-33dd-454f-bd2c-ffe6748c0d0b",
+            "Value": {
+                "id": "468f75cb-b9a9-4b2c-95b7-75d120492d03",
+                "resourcePath": "views\\d187aabd-33dd-454f-bd2c-ffe6748c0d0b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dc9e8172-9006-40df-96d5-825fbce4fdb2",
             "Value": {
                 "id": "97117ab9-11cf-4f50-b1c4-671dcd7b1dd8",
@@ -476,6 +500,14 @@
                 "id": "0389e48c-187e-4697-933f-145f31f03d0a",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "ed56ef29-6b2c-40b8-8b7c-e932a0b9ba71",
+            "Value": {
+                "id": "fb6d26ce-83bd-4dc2-b6ba-cd1557ca2d98",
+                "resourcePath": "scripts\\get_platform_sprite\\get_platform_sprite.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -538,7 +570,8 @@
         "bf835a0f-2508-4afc-af51-cc56a0f71bcf",
         "b7511dcf-ba38-4bf1-ba16-d6c2bca1b35e",
         "dc9e8172-9006-40df-96d5-825fbce4fdb2",
-        "af5b20b1-429d-4831-9d55-173963824705"
+        "af5b20b1-429d-4831-9d55-173963824705",
+        "ed56ef29-6b2c-40b8-8b7c-e932a0b9ba71"
     ],
     "tutorial": ""
 }

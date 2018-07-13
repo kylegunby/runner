@@ -7,7 +7,8 @@
         "b91bba41-c394-4c8b-b2a2-971407602231",
         "527d8816-ab1c-43bc-a432-ab9ba9f126cc",
         "0e9d50a1-822a-402f-9ea9-2fefccb25caa",
-        "08095b6d-f919-4440-b335-1b034546787f"
+        "08095b6d-f919-4440-b335-1b034546787f",
+        "252bc8df-db68-45c2-bcbd-6b77d1154e5a"
     ],
     "filterType": "GMSprite",
     "folderName": "Platforms",
