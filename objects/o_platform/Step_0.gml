@@ -2,4 +2,4 @@
 
 x -= o_platform_spawner.move_speed;
 
-if (x < -BLOCK_WIDTH) instance_destroy();
+if (bbox_right < -BLOCK_WIDTH) instance_destroy();
