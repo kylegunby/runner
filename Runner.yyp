@@ -1540,6 +1540,25 @@
             }
         },
         {
+            "Key": "e98cf29e-5ebb-4b9a-938b-a6f5563110ba",
+            "Value": {
+                "id": "0435970d-3ee5-4f47-a4ee-7d25ec8b2192",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/f_gameover_sub\/f_gameover_sub.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "ed56ef29-6b2c-40b8-8b7c-e932a0b9ba71",
             "Value": {
                 "id": "fb6d26ce-83bd-4dc2-b6ba-cd1557ca2d98",

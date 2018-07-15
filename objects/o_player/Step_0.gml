@@ -61,3 +61,7 @@ else
 	image_speed = animation_speed;
 }
 #endregion
+
+#region Kill if fall off screen
+if (y > room_height + BLOCK_HEIGHT * 2) instance_destroy();
+#endregion

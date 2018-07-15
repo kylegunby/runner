@@ -6,7 +6,7 @@
 #macro BLOCK_HEIGHT 64
 
 // Set player vars
-global.gems = 0;
+global.total_gems = 0;
 
 // Hold info on the possible platforms
 global.grass_platforms = ds_list_create();

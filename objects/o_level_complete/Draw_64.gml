@@ -9,5 +9,5 @@ draw_rectangle_color(0, 0, _interface_width, _interface_height, c_black, c_black
 draw_set_alpha(1);
 
 draw_set_text(c_white, _font, fa_center, fa_middle);
-draw_text_color(interface_width * 0.5, interface_height * 0.5, "INFECTED!", c_white, c_white, c_white, c_white, 1);
+draw_text_color(_interface_width * 0.5, _interface_height * 0.5, "YOU DID IT!", c_white, c_white, c_white, c_white, 1);
 default_font();
