@@ -18,3 +18,8 @@ shake_remain = max(0, shake_remain - ((1 / shake_length) * shake_magnitude));
 
 // Update camera view
 camera_set_view_pos(cam, x - view_w_half, y - view_h_half);
+
+if (keyboard_check_pressed(ord("Q"))) {
+	instance_deactivate_object(o_player);
+	instance_create_layer(0, 0, "Instances", o_level_complete);
+}

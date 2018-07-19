@@ -11,3 +11,6 @@ draw_set_alpha(1);
 draw_set_text(c_white, _font, fa_center, fa_middle);
 draw_text_color(_interface_width * 0.5, _interface_height * 0.5, "YOU DID IT!", c_white, c_white, c_white, c_white, 1);
 default_font();
+
+draw_rectangle_color(retry_x1, button_y1, retry_x2, button_y2, c_green, c_green, c_green, c_green, false);
+draw_rectangle_color(quit_x1, button_y1, quit_x2, button_y2, c_red, c_red, c_red, c_red, false);

@@ -28,7 +28,8 @@ if (menu_control) {
 if (menu_x > gui_width + 150) && (menu_committed != -1) {
 	switch (menu_committed) {
 		case 2:
-			room_goto(r_level_1);
+			//room_goto(r_level_1);
+			room_goto(r_level_view);
 			break;
 		case 1:
 			/*
@@ -44,7 +45,8 @@ if (menu_x > gui_width + 150) && (menu_committed != -1) {
 				slide_transition(TRANS_MODE.GOTO, target);
 			}
 			*/
-			room_goto(r_level_1);
+			//room_goto(r_level_1);
+			room_goto(r_level_view);
 			break;
 		case 0:
 			game_end();
