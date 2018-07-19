@@ -15,7 +15,7 @@ if (menu_control) {
 		{
 			menu_cursor = (menu_y - mouse_y_gui) div (menu_item_height * 1.5);
 		
-			if (o_input.mouse_click)
+			if (mouse_check_button_pressed(mb_any))
 			{
 				menu_x_target = gui_width + 200;
 				menu_committed = menu_cursor;
