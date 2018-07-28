@@ -1,16 +1,25 @@
 alpha += 1 / room_speed;
-
-var _interface_height	= display_get_gui_height();
-var _interface_width	= display_get_gui_width();
 var _font				= f_gameover;
 
+#region Draw background
 draw_set_alpha(min(0.75, alpha));
-draw_rectangle_color(0, 0, _interface_width, _interface_height, c_black, c_black, c_black, c_black, false);
+draw_rectangle_color(0, 0, interface_width, interface_height, c_black, c_black, c_black, c_black, false);
 draw_set_alpha(1);
+#endregion
 
+#region Draw Text
 draw_set_text(c_white, _font, fa_center, fa_middle);
-draw_text_color(_interface_width * 0.5, _interface_height * 0.5, "YOU DID IT!", c_white, c_white, c_white, c_white, 1);
+draw_text_color(interface_width * 0.5, interface_height * 0.5, "YOU DID IT!", c_white, c_white, c_white, c_white, 1);
 default_font();
+#endregion
 
+#region Draw Retry box
 draw_rectangle_color(retry_x1, button_y1, retry_x2, button_y2, c_green, c_green, c_green, c_green, false);
+draw_set_text(c_white, _font, fa_center, fa_middle);
+//draw_text
+default_font();
+#endregion
+
+#region Draw Level Select Box
 draw_rectangle_color(quit_x1, button_y1, quit_x2, button_y2, c_red, c_red, c_red, c_red, false);
+#endregion
