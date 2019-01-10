@@ -8,10 +8,11 @@
 // Set player vars
 global.total_gems = 0;
 
-// Hold info on the possible platforms
+/* Hold info on the possible platforms
 global.grass_platforms = ds_list_create();
 ds_list_add(global.grass_platforms, s_grass1x1);
 ds_list_add(global.grass_platforms, s_grass3x1);
 ds_list_add(global.grass_platforms, s_grass5x1);
 ds_list_add(global.grass_platforms, s_grass7x1);
 ds_list_add(global.grass_platforms, s_grass14x1);
+*/

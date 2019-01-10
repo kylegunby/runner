@@ -12,11 +12,8 @@ if (place_meeting(x + hspd, y, o_solid))
 	{
         x += sign(hspd);
     }
-	hspd = approach(x_input, 0, friction_);
-    //hspd = 0;
+    hspd = 0;
 }
-
-// Move horizontally
 x += hspd;
 
 // Vertical Collisions
@@ -26,11 +23,8 @@ if (place_meeting(x, y + vspd, o_solid))
 	{
         y += sign(vspd);
     }
-	vspd = approach(y_input, 0, friction_);
-    //vspd = 0;
+    vspd = 0;
 }
-
-// Move vertically
 y += vspd;
 
 

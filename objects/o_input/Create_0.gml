@@ -1,5 +1,4 @@
-GET_INPUT = 0;
-event_user(GET_INPUT);
+event_user(0);
 
 // Map keys
 keyboard_set_map(ord("A"), vk_left);
