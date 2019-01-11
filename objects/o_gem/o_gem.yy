@@ -5,27 +5,7 @@
     "name": "o_gem",
     "eventList": [
         {
-            "id": "239b031e-5a53-4e02-a2fd-d635f4eabd9f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "244177b4-03ca-4fd9-bf79-5632afb6cafc"
-        },
-        {
-            "id": "08e985b2-0683-46ab-b9ea-0539e4d9afcc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "244177b4-03ca-4fd9-bf79-5632afb6cafc"
-        },
-        {
-            "id": "4f109186-c78e-4c86-af3a-7065a406a3b7",
+            "id": "bde9627a-0a63-4533-b8b9-ba39fb78c2a7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -37,7 +17,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "c7aa0f3e-3c38-4201-acda-5ac367656eb0",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

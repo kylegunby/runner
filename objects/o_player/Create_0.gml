@@ -7,4 +7,5 @@ term_velocity	= 18;
 jump_velocity	= -15;
 can_jump		= 0;
 level_gems		= 0;
+hp				= 3;
 image_speed		= animation_speed;

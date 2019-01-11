@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "o_spikes",
     "eventList": [
-        
+        {
+            "id": "59327c70-9c03-452a-b899-d28177e26af9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a78cc0e9-9530-42ff-9287-f78daa5af6d6"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
